@@ -2,7 +2,7 @@
 name = "fast-api"
 version = "0.1.0"
 description = ""
-authors = ["kirill568 <kirill568@gmail.com>"]
+authors = ["Dutova23 <dutovaania@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
